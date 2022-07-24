@@ -16,9 +16,9 @@
     <test name="Amazon Web Automation">
         <classes>
 
-<!--            <class name="com.amazon.costcoTestPages.HomePageTest.HomePageNewTest"/>-->
-<!--            <class name="costcoTestPages.costcoHomePageTest.CostcoHomePageTest"/>-->
-            <class name="eBayTestPages.eBayHomePageTest.EbayHomePageTest"/>
+<!--            <class name="com.amazon.testPages.HomePageTest.HomePageNewTest"/>-->
+<!--            <class name="com.costcoTestPages.costcoHomePageTest.CostcoHomePageTest"/>-->
+            <class name="com.eBayTestPages.eBayHomePageTest.EbayHomePageTest"/>
 
         </classes>
 

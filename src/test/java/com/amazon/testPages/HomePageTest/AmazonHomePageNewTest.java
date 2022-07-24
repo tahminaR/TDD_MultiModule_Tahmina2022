@@ -35,7 +35,7 @@ public class AmazonHomePageNewTest extends WebTestBase {
     }
 
 
-    @Test
+    @Test @Ignore
     public void verifySearchProductUsingValidProductName1() {
         // Action method
         homePage2.searchProductUsingValidProductName();
